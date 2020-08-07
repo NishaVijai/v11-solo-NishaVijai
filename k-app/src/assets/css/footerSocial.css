@@ -1,0 +1,54 @@
+h5 {
+    text-transform: uppercase;
+    padding-left: 50px;
+}
+
+.footer-social-links {
+    text-align: start;
+}
+
+.m-links {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 120px 40px 0;
+}
+
+.anchor {
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    line-height: 18px;
+    padding: 10px 0 0 50px;
+    text-transform: capitalize;
+}
+
+.anchor a {
+    margin: 0;
+    padding: 0 0 5px 0;
+}
+
+.anchor a:hover {
+    color: #037362;
+    text-decoration: underline;
+}
+
+.m-links-social {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+
+.copyright-image {
+    height: 20px;
+    width: 20px;
+}
+
+.copy-social img {
+    transform: translateY(6px);
+}
+
+.copy-social span {
+    font-size: 12px;
+    line-height: 18px;
+}

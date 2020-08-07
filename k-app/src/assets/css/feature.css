@@ -1,0 +1,99 @@
+/* feature component */
+.feature-container {
+    display: grid;
+    grid-template-columns: 1fr 1px 550px;
+}
+
+/* feature left */
+.feature-left {
+    padding-left: 20px;
+}
+
+.feature-title h4 {
+    padding: 0 0 20px 10px;
+}
+
+.feature-left img {
+    border-bottom: 10px solid #037362;
+    height: 350px;
+    width: 620px;
+}
+
+.tilt-five p {
+    font-size: 28px;
+    line-height: 36px;
+}
+
+.feature-left p {
+    padding-left: 12px;
+}
+
+.feature-no-underline p {
+    margin-top: -10px;
+}
+
+.feature-left span {
+    font-size: 12px;
+    line-height: 18px;
+}
+
+/* feature-right */
+.feature-right {
+    padding-left: 30px;
+}
+
+.feature-right h4 {
+    padding-left: 15px;
+}
+
+.feature-right img {
+    height: 90px;
+    width: 160px;
+}
+
+.feature-right-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.f-right {
+    display: flex;
+    margin-top: -20px;
+    padding: 0 20px;
+}
+
+.p-right {
+    font-size: 13px;
+    line-height: 21px;
+    overflow-y: hidden;
+    padding-left: 20px;
+    text-align: left;
+}
+
+.p-right-hover p:hover {
+    color: #023a31;
+    text-decoration: underline;
+}
+
+.right-green-font {
+    color: #037362;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+}
+
+.span-text {
+    margin-top: -10px;
+}
+
+/* heart and remind me description */
+.heart-right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.heart-right img {
+    height:20px;
+    width: 20px;
+}

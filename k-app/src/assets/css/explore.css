@@ -1,0 +1,45 @@
+.explore-content h4 {
+    padding: 50px 0 30px 50px;
+    text-align: start;
+}
+
+.explore-text-container {
+    display: flex;
+    justify-content: center;
+    padding: 0 40px 30px 40px;
+    text-align: start;
+}
+
+.explore-link p{
+    padding: 10px 20px 0 10px;
+}
+
+.explore-link:hover {
+    color: #037362;
+    text-decoration: underline;
+}
+
+.explore-text {
+    display: block;
+    overflow: hidden;
+}
+
+.left-image {
+    font-size: 18px;
+    height: 360px;
+    line-height: 24px;
+    width: 280px;
+}
+
+.sub-link p {
+    fill: #656969;
+    font-size: 11px;
+    line-height: 18px;
+    text-transform: capitalize;
+    padding-left: 10px;
+    padding-top: -20px;
+}
+
+.sub-link p:hover {
+    text-decoration: underline;
+}
