@@ -1,2 +1,17 @@
-# v11-solo-NishaVijai
-Add-project-description-here | Voyage-11 | https://chingu.io/ | Twitter: https://twitter.com/ChinguCollabs
+## Goal
+
+First time solo project challenge to build a static website using React ⚛️ 
+
+Got inspired by kickstarter website: https://www.kickstarter.com/
+
+## Live project
+
+https://cloned-kickstarter.netlify.com/
+
+## Languages and libraries
+
+React, HTML, CSS-grid, Flexbox
+
+## github
+
+- [@nisha](https://github.com/NishaVijai)
